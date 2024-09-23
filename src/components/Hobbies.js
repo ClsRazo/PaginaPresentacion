@@ -39,7 +39,7 @@ const Hobbies = () => {
           src={require(`./../imagenes/${hobbiesData.bailar[currentImage.bailar]}`)}
           alt="Bailar"
           className="hobby-image"
-          onClick={() => handleImageClick(hobbiesData.bailar[currentImage.bailar])}
+          // onClick={() => handleImageClick(hobbiesData.bailar[currentImage.bailar])}
         />
         <p>Amo la música y el baile, en especial la cumbia, la salsa (tanto tradicional como cubana) y el rock n roll. Bailar es una forma de expresión y una de mis actividades favoritas para relajarme y divertirme.</p>
       </div>
@@ -50,7 +50,7 @@ const Hobbies = () => {
           src={require(`./../imagenes/${hobbiesData.videojuegos[currentImage.videojuegos]}`)}
           alt="Videojuegos"
           className="hobby-image"
-          onClick={() => handleImageClick(hobbiesData.videojuegos[currentImage.videojuegos])}
+          // onClick={() => handleImageClick(hobbiesData.videojuegos[currentImage.videojuegos])}
         />
         <p>Los videojuegos siempre han sido una pasión para mí. Disfruto especialmente juegos como Fortnite y Minecraft, que me permiten interactuar con amigos y desarrollar habilidades estratégicas y creativas.</p>
       </div>
@@ -61,7 +61,7 @@ const Hobbies = () => {
           src={require(`./../imagenes/${hobbiesData.dibujar[currentImage.dibujar]}`)}
           alt="Dibujar"
           className="hobby-image"
-          onClick={() => handleImageClick(hobbiesData.dibujar[currentImage.dibujar])}
+          // onClick={() => handleImageClick(hobbiesData.dibujar[currentImage.dibujar])}
         />
         <p>El dibujo ha sido un hobby que me acompaña desde la primaria. Aunque he tenido periodos de pausa, siempre regreso a él como una forma de liberar mi imaginación y crear nuevos mundos en papel.</p>
       </div>
