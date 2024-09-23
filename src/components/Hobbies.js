@@ -1,5 +1,4 @@
 import React, { useState, useEffect } from 'react';
-import Modal from 'react-modal';
 import '..//CSS/Hobbies.css'; // Asegúrate de tener un archivo CSS para los estilos
 
 // Arreglo de imágenes para cada hobby
@@ -10,10 +9,8 @@ const hobbiesData = {
 };
 
 const Hobbies = () => {
-  // Estados para las imágenes mostradas y el modal
+  // Estados para las imágenes mostradas
   const [currentImage, setCurrentImage] = useState({ bailar: 0, videojuegos: 0, dibujar: 0 });
-  const [isModalOpen, setIsModalOpen] = useState(false);
-  const [modalImage, setModalImage] = useState('');
 
   // Efecto para cambiar las imágenes cada 3 segundos
   useEffect(() => {
@@ -29,10 +26,10 @@ const Hobbies = () => {
   }, []);
 
   // Abrir el modal al hacer clic en una imagen
-  const handleImageClick = (image) => {
-    setModalImage(image);
-    setIsModalOpen(true);
-  };
+  // const handleImageClick = (image) => {
+  //   setModalImage(image);
+  //   setIsModalOpen(true);
+  // };
 
   return (
     <div className="hobbies-container">
