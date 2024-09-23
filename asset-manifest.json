@@ -1,16 +1,39 @@
 {
   "files": {
-    "main.css": "/PaginaPresentacion/static/css/main.f855e6bc.css",
-    "main.js": "/PaginaPresentacion/static/js/main.dd569763.js",
+    "main.css": "/PaginaPresentacion/static/css/main.d71ef158.css",
+    "main.js": "/PaginaPresentacion/static/js/main.2090bf5e.js",
     "static/js/453.bdab2c71.chunk.js": "/PaginaPresentacion/static/js/453.bdab2c71.chunk.js",
-    "static/media/logo.svg": "/PaginaPresentacion/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "static/media/ClaudeShannon.png": "/PaginaPresentacion/static/media/ClaudeShannon.c3bedb7e4be84ce76cc7.png",
+    "static/media/fotoRazo.png": "/PaginaPresentacion/static/media/fotoRazo.ef87e56a05d64419b4e4.png",
+    "static/media/dibujar2.jpg": "/PaginaPresentacion/static/media/dibujar2.77987634e0858519ee1f.jpg",
+    "static/media/videojuegos2.png": "/PaginaPresentacion/static/media/videojuegos2.75f0b1be52512db4abee.png",
+    "static/media/dibujar1.jpg": "/PaginaPresentacion/static/media/dibujar1.13816207376bed816127.jpg",
+    "static/media/CV.pdf": "/PaginaPresentacion/static/media/CV.cd9fbfb7dbd28e2d1f6c.pdf",
+    "static/media/instagram.png": "/PaginaPresentacion/static/media/instagram.a23709f5f6c2f6bed14d.png",
+    "static/media/bailar1.png": "/PaginaPresentacion/static/media/bailar1.b716781fbb9ba1673dbc.png",
+    "static/media/Enigma.png": "/PaginaPresentacion/static/media/Enigma.5560b9d610230b6852eb.png",
+    "static/media/bailar3.png": "/PaginaPresentacion/static/media/bailar3.5c3340eedb3e53905d30.png",
+    "static/media/bailar2.png": "/PaginaPresentacion/static/media/bailar2.320b9ce8e83c3fc639ae.png",
+    "static/media/secundaria.png": "/PaginaPresentacion/static/media/secundaria.33ae29354a58f58b7627.png",
+    "static/media/vocacional.png": "/PaginaPresentacion/static/media/vocacional.76bcecd649420eee24cb.png",
+    "static/media/acercaDe.png": "/PaginaPresentacion/static/media/acercaDe.39f00b33c3de2039edde.png",
+    "static/media/twitter.png": "/PaginaPresentacion/static/media/twitter.cbb3ced8e1f176411362.png",
+    "static/media/hobbies.png": "/PaginaPresentacion/static/media/hobbies.0cf21c95d8a843526e09.png",
+    "static/media/email.png": "/PaginaPresentacion/static/media/email.b631423ab89082ba2cdc.png",
+    "static/media/dibujar3.jpg": "/PaginaPresentacion/static/media/dibujar3.75e89e6ac4fe3312e308.jpg",
+    "static/media/contacto.png": "/PaginaPresentacion/static/media/contacto.ec6c16505e3f1b099a97.png",
+    "static/media/publicKey.png": "/PaginaPresentacion/static/media/publicKey.a9d6f8c91f7b5853225c.png",
+    "static/media/CV.png": "/PaginaPresentacion/static/media/CV.e75f76ae36d6dddb567a.png",
+    "static/media/videojuegos1.png": "/PaginaPresentacion/static/media/videojuegos1.4da73c409445d2a67193.png",
+    "static/media/universidad.png": "/PaginaPresentacion/static/media/universidad.eb9da8de24bac1efca08.png",
+    "static/media/videojuegos3.png": "/PaginaPresentacion/static/media/videojuegos3.dadeeeaea0fbf0cb30d0.png",
     "index.html": "/PaginaPresentacion/index.html",
-    "main.f855e6bc.css.map": "/PaginaPresentacion/static/css/main.f855e6bc.css.map",
-    "main.dd569763.js.map": "/PaginaPresentacion/static/js/main.dd569763.js.map",
+    "main.d71ef158.css.map": "/PaginaPresentacion/static/css/main.d71ef158.css.map",
+    "main.2090bf5e.js.map": "/PaginaPresentacion/static/js/main.2090bf5e.js.map",
     "453.bdab2c71.chunk.js.map": "/PaginaPresentacion/static/js/453.bdab2c71.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.f855e6bc.css",
-    "static/js/main.dd569763.js"
+    "static/css/main.d71ef158.css",
+    "static/js/main.2090bf5e.js"
   ]
 }
